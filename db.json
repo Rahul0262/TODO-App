@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "test",
+      "email": "test",
+      "password": "test",
+      "isAdmin": false,
+      "id": 1
+    },
+    {
+      "name": "admin",
+      "email": "admin",
+      "password": "admin",
+      "isAdmin": true,
+      "id": 2
+    },
+    {
+      "name": "Rahul",
+      "email": "rahul",
+      "password": "rahul",
+      "isAdmin": false,
+      "id": 3
+    }
+  ],
+  "todos": [
+    {
+      "val": "11",
+      "userid": 1,
+      "id": 1
+    },
+    {
+      "val": "31",
+      "userid": 3,
+      "id": 3
+    },
+    {
+      "val": "32",
+      "userid": 3,
+      "id": 6
+    },
+    {
+      "val": "12",
+      "userid": 1,
+      "id": 7
+    },
+    {
+      "val": "21",
+      "userid": 2,
+      "id": 8
+    }
+  ]
+}
