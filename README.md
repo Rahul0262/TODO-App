@@ -12,6 +12,11 @@ npm install
 quasar dev
 ```
 
+### Start the JSON server
+```bash
+json-server --watch db.json
+```
+
 ### Lint the files
 ```bash
 npm run lint
