@@ -23,18 +23,6 @@
         :rules="[ val => val && val.length > 0 || 'Please type something']"
       />
 
-      <!-- <q-input
-        filled
-        type="number"
-        v-model="age"
-        label="Your age *"
-        lazy-rules
-        :rules="[
-          val => val !== null && val !== '' || 'Please type your age',
-          val => val > 0 && val < 100 || 'Please type a real age'
-        ]"
-      /> -->
-
       <div class="text-center">
         <q-btn label="Submit" type="submit" color="primary"/>
         <div class="q-pt-sm">Not registered?

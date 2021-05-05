@@ -2,21 +2,21 @@
   "users": [
     {
       "name": "test",
-      "email": "test",
+      "email": "test@gmail.com",
       "password": "test",
       "isAdmin": false,
       "id": 1
     },
     {
       "name": "admin",
-      "email": "admin",
+      "email": "admin@gmail.com",
       "password": "admin",
       "isAdmin": true,
       "id": 2
     },
     {
       "name": "Rahul",
-      "email": "rahul",
+      "email": "rahul@gmail.com",
       "password": "rahul",
       "isAdmin": false,
       "id": 3
@@ -24,29 +24,44 @@
   ],
   "todos": [
     {
-      "val": "11",
-      "userid": 1,
-      "id": 1
-    },
-    {
-      "val": "31",
+      "val": "rahul todo 1",
       "userid": 3,
       "id": 3
     },
     {
-      "val": "32",
+      "val": "rahul todo 2",
       "userid": 3,
       "id": 6
     },
     {
-      "val": "12",
-      "userid": 1,
-      "id": 7
-    },
-    {
-      "val": "21",
+      "val": "admins todo 1",
       "userid": 2,
       "id": 8
+    },
+    {
+      "val": "admins todo 2",
+      "userid": 2,
+      "id": 11
+    },
+    {
+      "val": "rahul todo 3",
+      "userid": 3,
+      "id": 12
+    },
+    {
+      "val": "test3",
+      "userid": 1,
+      "id": 13
+    },
+    {
+      "val": "test1",
+      "userid": 1,
+      "id": 14
+    },
+    {
+      "val": "todo 3",
+      "userid": 2,
+      "id": 15
     }
   ]
 }
