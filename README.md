@@ -1,4 +1,4 @@
-# algojitodo (algojitodo)
+# TODO App
 
 A Quasar Framework app
 
